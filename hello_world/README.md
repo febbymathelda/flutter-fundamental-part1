@@ -2,5 +2,16 @@
 
 Jawab:
 
-![Febby Mathelda ](./images/01.png)
+![Deskripsi Gambar](images/01.png)
+Nama Lengkap: [FebbyMathelda]
+
+2. Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut. Screenshot hasil milik Anda, lalu dibuat laporan pada file README.md.
+
+
+Jawab:
+
+<img src = "./scimage/image.png"> <p>
+![alt text](image.png)
+
+
 
